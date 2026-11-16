@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Cricmetric Studio mark">
+  <rect x="12" y="12" width="232" height="232" rx="52" fill="#20352f" stroke="#93c9aa" stroke-width="8" />
+  <path d="M164 77c-13-14-29-21-49-21-41 0-69 30-69 72s28 72 69 72c20 0 37-7 50-22l-20-20c-8 9-17 13-29 13-24 0-39-18-39-43s15-43 39-43c12 0 21 4 29 12l19-20Z" fill="#b1dec5" />
+  <path d="M163 61v134" fill="none" stroke="#92cfb0" stroke-width="10" stroke-linecap="round" />
+  <circle cx="190" cy="189" r="11" fill="#9bd8be" />
+</svg>
